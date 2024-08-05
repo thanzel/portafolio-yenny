@@ -320,7 +320,7 @@ ul li .proyecto_fecha {
   height: 35px;
   border-radius: 20px;
   color: var(--color-primario);  
-  background-image: linear-gradient(to right, var(--color-secundario), var(--color-cuaternario));
+  background-image: linear-gradient(to right, var(--color-terciario), var(--color-cuaternario));
   /*color de línea*/
   display: grid;
   place-items: center;
