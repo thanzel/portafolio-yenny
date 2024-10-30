@@ -17,7 +17,7 @@
       
 ## Desarrollador
 
-[Yenny ](https://www.linkedin.com/in/yenny/)
+[Yenny ](https://www.linkedin.com/in)
 * Software Developer - Backend Java Jr. - Spring Boot
 * FullStack Developer Jr.: Javascript - JQuery - Typescript - HTML - CSS - Bootstrap
 
